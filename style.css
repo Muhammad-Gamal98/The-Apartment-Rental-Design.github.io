@@ -1,0 +1,14 @@
+body{
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+}.btn-success{background-color: #4CAF50}
+.text-success{color:#4CAF50}
+.bg-secondary{
+    background-color: #f1f1f1!important;
+}
+.toggle-show{
+    display: block !important;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 10;
+}
